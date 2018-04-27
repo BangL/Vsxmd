@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Vsxmd</id>
+    <id>Vsxmd2017</id>
     <version>$Version$</version>
-    <title>Vsxmd</title>
-    <authors>Junle Li</authors>
-    <owners>Junle Li</owners>
-    <licenseUrl>https://github.com/lijunle/Vsxmd/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/lijunle/Vsxmd</projectUrl>
+    <title>Vsxmd2017</title>
+    <authors>Junle Li, BangL</authors>
+    <owners>Junle Li, BangL</owners>
+    <licenseUrl>https://github.com/BangL/Vsxmd/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/BangL/Vsxmd</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>VS XML documentation -> Markdown syntax.</description>
-    <copyright>Copyright 2015</copyright>
+    <copyright>Copyright 2017</copyright>
     <developmentDependency>true</developmentDependency>
     <tags>Vsxmd VS XML document Markdown</tags>
   </metadata>
